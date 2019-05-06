@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mc2": "github:edumentab/mc2"
+  },
+  "scripts": {
+    "build": "mc2",
+    "watch": "mc2-watch",
+    "print": "mc2-print",
+    "publish": "npm run build && npm run print && cd slides && git init && git checkout -b gh-pages && git add . && git commit -m 'rebuilt' && git remote add origin https://github.com/krawaller/eduslides.git && git push -f origin gh-pages"
+  }
+}
