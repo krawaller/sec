@@ -1,3 +1,13 @@
+.reveal section .comparison img {
+  width: 200px;
+  border: 0;
+  background-color: transparent;
+}
+
+.comparison td {
+  text-align: center !important;
+}
+
 /** my course-specific styles **/
 
 body .reveal section .whitebg img {

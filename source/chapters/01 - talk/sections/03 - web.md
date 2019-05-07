@@ -139,6 +139,10 @@ digraph {
 
 ~
 
+(or both, at the same time)
+
+~
+
 Additionally, web tech has **escaped from the browser**:
 
 ```dot

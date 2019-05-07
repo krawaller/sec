@@ -3,6 +3,20 @@ title: Frameworks
 tagline:
 ---
 
+http://dayssincelastjavascriptframework.com/
+
+~
+
+![](resources/herd.jpg)
+
+~
+
+![](resources/hype.png)
+
+~
+
+Perhaps the most important axle:
+
 ```dot
 digraph {
   rankdir = LR
@@ -24,3 +38,33 @@ digraph {
   {rank=same; col6, Ember}
 }
 ```
+
+~
+
+<table class="comparison">
+  <tr>
+    <td><img src="resources/react.svg"></td>
+    <td><img src="resources/ng2.svg"></td>
+    <td><img src="resources/vue.png"></td>
+  </tr>
+  <tr>
+    <td>React</td>
+    <td>Angular</td>
+    <td>Vue</td>
+  </tr>
+</table>
+
+~
+
+<table class="comparison">
+  <tr>
+    <td><img src="resources/react.svg"></td>
+    <td><img src="resources/ng2.svg"></td>
+    <td><img src="resources/vue.png"></td>
+  </tr>
+  <tr>
+    <td>Facebook</td>
+    <td>Google</td>
+    <td>Evan</td>
+  </tr>
+</table>
